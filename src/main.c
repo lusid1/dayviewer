@@ -84,6 +84,7 @@ int GetPatchAddr(void)
 			break;
 
 		case 0x660:
+		case 0x661:
 			res = 2;
 			break;
 

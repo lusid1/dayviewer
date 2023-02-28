@@ -6,6 +6,8 @@ This plugin only ASCII characters can be displayed.
 
 It can use by CFW of 6.XX.
 
+[Changelog v7.1]
+- System Firmware 6.61 is supported
 
 [Changelog v7]
 - The display of the character corrected the bug which was not performed normally.

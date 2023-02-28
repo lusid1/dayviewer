@@ -1,14 +1,15 @@
 [DayViewerForGame v7 von plum]
 
-Dieses Plugin erlaubt dir die Uhrzeitzeile zu bearbeiten und fügt weitere Feature wie Wochentag, Monatsname, Jahr, Batterie Prozent Anzeige, Restliche Batteriedauer und vieles mehr hinzu.
+Dieses Plugin erlaubt dir die Uhrzeitzeile zu bearbeiten und fÃ¼gt weitere Feature wie Wochentag, Monatsname, Jahr, Batterie Prozent Anzeige, Restliche Batteriedauer und vieles mehr hinzu.
 
 
-Dieses Plugin unterstützt nur ASCII zeichen.
+Dieses Plugin unterstÃ¼tzt nur ASCII zeichen.
 
 
 Ich bin ab PSP CFW 6.XX verwendbar.
 
-
+[Changelog v7.1]
+- System Firmware 6.61 is supported
 
 [Changelog v7]
 - Das Anzeigen von Zeichen, in Bezug auf den vorherigen Fehler, wurde korrigiert.
